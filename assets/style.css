@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+
+h1{
+    text-align:center;
+}
+
+
+body {
+    background: url('./LetsCodeCover.png') center/cover no-repeat;
+    height: 100vh;
+}
